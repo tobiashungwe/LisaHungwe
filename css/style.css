@@ -51,6 +51,10 @@ body {
   padding-bottom: 4%;
 }
 
+.iconTalenten {
+  width: 300px;
+
+}
 .infobox{
   
   width: auto;				/* width of image (px or % or auto) */
@@ -58,9 +62,49 @@ body {
   
 }
 
+.smallPicture{
+  width:25%;
+}
+
+.mediumPicture{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  width:30%;
+}
+.smallVideo{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  width: 32.5%; 
+  height:auto;
+  
+}
+
+.mediumVideo{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  width: 65%; 
+  height:500px;
+}
+
 .cyan{
   background-color: #27c9ae;
   color: white;
+}
+
+/* Custom Ids */
+#fotoMetKinderen{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  width:30%;
+  height: 25%;
 }
 /* MARKETING CONTENT
 -------------------------------------------------- */
